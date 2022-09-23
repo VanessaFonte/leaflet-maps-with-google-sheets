@@ -1,0 +1,4 @@
+Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
+Cuba,fa-sharp fa-solid fa-house-window,,,40x40,"Camageuy, Cuba",https://www.flickr.com/photos/valterb/5520577212/,My parents home and where they met,"Camaguey, Cuba",21.3926035,-77.9053182
+Venezula,fa-sharp fa-solid fa-house-window,,,40x40,"Caracas, Venezula",https://www.flickr.com/photos/126349931@N05/17509356469/,"""Almost home""","Caracas, Venezula",10.4174875,-66.8511094
+Home,fa-sharp fa-solid fa-house-window,,red,40x40,"Hialeah, Florida",https://www.flickr.com/photos/57392260@N02/5381116351/,Our home,"Hialeah, Florida",25.8847708,-80.3285219
